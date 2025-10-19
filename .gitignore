@@ -1,0 +1,13 @@
+# Dépendances
+node_modules/
+
+# Caches / builds
+.cache/
+.next/
+dist/
+build/
+coverage/
+
+# Env & OS
+.env
+.DS_Store
