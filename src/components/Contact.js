@@ -27,7 +27,7 @@ const Contact = () => {
   return (
     <section id="contact" className="contact">
       <div className="container">
-        <h2 className="section-title">Contact & Prise de RDV</h2>
+        <h2 className="section-title">Contact & Appelez la secrétaire (+226 06561386)</h2>
         
         <div className="contact-content">
           <div className="contact-info">

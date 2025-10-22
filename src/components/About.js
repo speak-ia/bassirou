@@ -11,19 +11,20 @@ const About = () => {
             <p>
               Médecin malien passionné par la santé infantile, je me spécialise actuellement en chirurgie pédiatrique 
               à l'Université Joseph-Ki-Zerbo de Ouagadougou, après avoir obtenu mon Doctorat en médecine générale 
-              à Bamako avec les félicitations du jury.
+              à Bamako avec les félicitations du jury. Mon parcours est marqué par un engagement fort dans la prise 
+              en charge des pathologies infantiles complexes, notamment les traumatismes thoraciques, sujet de ma 
+              thèse soutenue en 2021.
             </p>
             <p>
-              Mon parcours est marqué par un engagement fort dans la prise en charge des pathologies infantiles complexes, 
-              notamment les traumatismes thoraciques, sujet de ma thèse soutenue en 2021.
+              J'ai participé activement à des congrès médicaux, notamment à travers des communications orales, et je 
+              poursuis mes recherches et interventions cliniques dans le cadre de mon résidanat en chirurgie pédiatrique 
+              au Centre Hospitalier Universitaire Pédiatrique Charles de Gaulle. Mon expérience m'a permis d'approfondir 
+              mes compétences en diagnostic, traitement chirurgical et accompagnement post-opératoire des enfants au CHU 
+              de Martinique et de Guadeloupe du 02/12/24 au 04/02/26.
             </p>
             <p>
-              J'ai participé activement à des congrès médicaux et je poursuis mes recherches dans le cadre de mon 
-              résidanat en chirurgie pédiatrique au Centre Hospitalier Universitaire Pédiatrique Charles de Gaulle.
-            </p>
-            <p>
-              Mon expérience m'a permis d'approfondir mes compétences en diagnostic, traitement chirurgical et 
-              accompagnement post-opératoire des enfants au CHU de Martinique et de Guadeloupe.
+              Je suis également impliqué dans des actions de sensibilisation des populations sur les pathologies rares 
+              en chirurgie pédiatrique.
             </p>
           </div>
           

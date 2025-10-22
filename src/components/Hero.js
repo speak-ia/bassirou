@@ -34,7 +34,7 @@ const Hero = () => {
         
         <div className="hero-buttons">
           <a href="#contact" className="btn btn-primary" onClick={() => scrollToSection('contact')}>
-            Prendre RDV
+            Appelez la secrétaire
           </a>
           <button className="btn btn-secondary" onClick={downloadCV}>
             Télécharger CV
