@@ -33,7 +33,7 @@ const Hero = () => {
         <p className="hero-subtitle">Expert en Chirurgie Générale et Spécialisée</p>
         
         <div className="hero-buttons">
-          <a href="#contact" className="btn btn-primary" onClick={() => scrollToSection('contact')}>
+          <a href="tel:+22376126060" className="btn btn-primary">
             Appelez la secrétaire
           </a>
           <button className="btn btn-secondary" onClick={downloadCV}>
