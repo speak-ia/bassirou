@@ -19,7 +19,7 @@ const Testimonials = () => {
       author: "Chef de Service - CHU de Martinique 🇲🇶",
       isSpecial: true,
       hasImage: true,
-      imagePath: "/image.png"
+      imagePath: "/Attestation Bassirou.jpg"
     }
   ];
 

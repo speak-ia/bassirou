@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import PromoSection from './components/PromoSection';
 import About from './components/About';
 import Services from './components/Services';
 import Gallery from './components/Gallery';
@@ -13,6 +14,7 @@ function App() {
     <div className="App">
       <Header />
       <Hero />
+      <PromoSection />
       <About />
       <Services />
       <Gallery />

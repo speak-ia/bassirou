@@ -3,7 +3,7 @@ import React from 'react';
 const Gallery = () => {
   const galleryImages = [
     { src: '/2.jpeg', title: 'Bloc opératoire', description: 'Bloc opératoire moderne 🩺' },
-    { src: '/3.jpeg', title: 'Consultation', description: 'Consultation médicale 🧑‍⚕️' },
+    { src: '/b1.jpeg', title: 'Consultation', description: 'Consultation médicale 🧑‍⚕️' },
     { src: '/4.jpeg', title: 'Équipe médicale', description: 'Équipe médicale 👨‍⚕️👩‍⚕️' },
     { src: '/5.jpeg', title: 'Intervention chirurgicale', description: 'Intervention chirurgicale 🔬' },
     { src: '/6.jpeg', title: 'Salle de consultation', description: 'Salle de consultation moderne' },
